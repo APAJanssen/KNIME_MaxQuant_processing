@@ -1,5 +1,7 @@
 # KNIME MaxQuant processing
-Automated workflows for the processing of MaxQuant proteomics output
+Automated workflows for the processing of MaxQuant proteomics output. 
+
+[![DOI](https://zenodo.org/badge/601990730.svg)](https://zenodo.org/badge/latestdoi/601990730)
 
 **Overview** 
 
